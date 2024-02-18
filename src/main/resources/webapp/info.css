@@ -1,0 +1,36 @@
+body{
+    background:#FFB6C1;
+    display: flex;
+    justify-content: center;
+}
+
+.regForm{
+    background: #20B2AA;
+    width: 35%;
+    padding: 20px;
+    margin: 60px;
+    font-size: 25px;
+
+}
+
+.Name{
+    display:flex;
+    justify-content: center;
+
+}
+
+.Age{
+    display:flex;
+    justify-content: center;
+
+}
+.Gender{
+    display:flex;
+    justify-content: center;
+
+}
+.Country{
+    display:flex;
+    justify-content: center;
+
+}
